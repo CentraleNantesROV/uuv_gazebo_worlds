@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package format="3">
+  <name>uuv_gazebo_worlds</name>
+  <version>1.0.0</version>
+  <description>The uuv_gazebo_worlds package, adapted for GazeboSim</description>
+
+  <maintainer email="olivier.kermorgant@ec-nantes.fr">Olivier Kermorgant</maintainer>
+  
+  <author email="musa.marcusso@de.bosch.com">Musa Morena Marcusso Manhaes</author>
+  <author email="sebastian.scherer2@de.bosch.com">Sebastian Scherer</author>
+  <author email="luizricardo.douat@de.bosch.com">Luiz Ricardo Douat</author>
+
+  <license>Apache-2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
